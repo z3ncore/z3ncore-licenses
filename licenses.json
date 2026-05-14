@@ -2,7 +2,7 @@
   "Z3N-AFKBOOST-001": {
     "plugin": "LeorixAFKBoost",
     "owner": "YourServer",
-    "status": "disable"
+    "status": "active"
   },
   "Z3N-BOUNTY-001": {
     "plugin": "LeorixBounty",
