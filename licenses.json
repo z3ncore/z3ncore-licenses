@@ -1,0 +1,32 @@
+{
+  "Z3N-AFKBOOST-001": {
+    "plugin": "LeorixAFKBoost",
+    "owner": "YourServer",
+    "status": "active"
+  },
+  "Z3N-BOUNTY-001": {
+    "plugin": "LeorixBounty",
+    "owner": "YourServer",
+    "status": "active"
+  },
+  "Z3N-COINFLIP-001": {
+    "plugin": "LeorixCoinFlip",
+    "owner": "YourServer",
+    "status": "active"
+  },
+  "Z3N-MODERATION-001": {
+    "plugin": "LeorixModeration",
+    "owner": "YourServer",
+    "status": "active"
+  },
+  "Z3N-TOOLS-001": {
+    "plugin": "LeorixTools",
+    "owner": "YourServer",
+    "status": "active"
+  },
+  "Z3N-RTPZONE-001": {
+    "plugin": "LeorixRTPZone",
+    "owner": "YourServer",
+    "status": "active"
+  }
+}
